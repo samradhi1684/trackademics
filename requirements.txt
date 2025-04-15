@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+firebase-admin
+python-dotenv
+scikit-learn
+pandas
+matplotlib
+seaborn
+plotly
+httpx                 # API testing from Python
+pytest                # For testing backend (if needed)
+sqlite3               # Optional — built-in with Python if not using Firebase
